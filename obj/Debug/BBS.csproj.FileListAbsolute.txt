@@ -1,0 +1,17 @@
+E:\MyProjects\BBS\BBS\bin\Debug\BBS.exe.config
+E:\MyProjects\BBS\BBS\bin\Debug\BBS.exe
+E:\MyProjects\BBS\BBS\bin\Debug\BBS.pdb
+E:\MyProjects\BBS\BBS\obj\Debug\BBS.frmLogin.resources
+E:\MyProjects\BBS\BBS\obj\Debug\BBS.Properties.Resources.resources
+E:\MyProjects\BBS\BBS\obj\Debug\BBS.csproj.GenerateResource.Cache
+E:\MyProjects\BBS\BBS\obj\Debug\BBS.exe
+E:\MyProjects\BBS\BBS\obj\Debug\BBS.pdb
+E:\MyProjects\BBS\BBS\obj\Debug\BBS.frmDashBoard.resources
+E:\MyProjects\BBS\BBS\obj\Debug\BBS.frmBooking.resources
+E:\MyProjects\BBS\BBS\obj\Debug\RdlCompile.cache
+E:\MyProjects\BBS\BBS\obj\Debug\RdlCompile.compiled
+E:\MyProjects\BBS\BBS\obj\Debug\BBS.frmchkavlibility.resources
+E:\MyProjects\BBS\BBS\bin\Debug\ur\BBS.resources.dll
+E:\MyProjects\BBS\BBS\obj\Debug\BBS.frmDashBoard.ur.resources
+E:\MyProjects\BBS\BBS\obj\Debug\ur\BBS.resources.dll
+E:\MyProjects\BBS\BBS\obj\Debug\BBS.csprojResolveAssemblyReference.cache
